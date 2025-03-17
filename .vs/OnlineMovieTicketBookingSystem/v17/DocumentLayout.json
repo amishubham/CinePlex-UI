@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\dtos\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\dtos\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\dtos\\payementdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\dtos\\payementdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\models\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\models\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Migrations\\20250311040312_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineMovieTicketBookingSystem\\Migrations\\20250311040312_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\controllers\\theatrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\controllers\\theatrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\controllers\\showcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\controllers\\showcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\services\\showservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\services\\showservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|c:\\users\\2378254\\source\\repos\\onlinemovieticketbookingsystem\\onlinemovieticketbookingsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D31048A-3BFD-48CE-B177-30FB34D16BD9}|OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj|solutionrelative:onlinemovieticketbookingsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\appsettings.json",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T04:58:12.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Dtos\\CreatePaymentDto.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Dtos\\CreatePaymentDto.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Dtos\\CreatePaymentDto.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Dtos\\CreatePaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:34:59.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:31:26.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Services\\PaymentService.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:30:46.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:08:04.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayementDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Dtos\\PayementDetailDto.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Dtos\\PayementDetailDto.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Dtos\\PayementDetailDto.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Dtos\\PayementDetailDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:56:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Repositories\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Repositories\\TicketRepository.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Repositories\\TicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:05:49.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250311040312_mg.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Migrations\\20250311040312_mg.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Migrations\\20250311040312_mg.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Migrations\\20250311040312_mg.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Migrations\\20250311040312_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:03:12.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Theatre.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\Theatre.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Models\\Theatre.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\Theatre.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Models\\Theatre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:59:06.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\MovieContext.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:59:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Models\\Ticket.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:50:59.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TheatreController.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\TheatreController.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Controllers\\TheatreController.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\TheatreController.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Controllers\\TheatreController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:08:17.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShowService.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Services\\ShowService.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Services\\ShowService.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Services\\ShowService.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Services\\ShowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:43:28.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:43:25.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:42:20.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Services\\AuthService.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:53:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:29:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowController.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\ShowController.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Controllers\\ShowController.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\ShowController.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Controllers\\ShowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:48:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:17:06.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAmwGsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:47:57.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineMovieTicketBookingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\2378254\\source\\repos\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem\\Program.cs",
+              "RelativeToolTip": "OnlineMovieTicketBookingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:56:35.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
