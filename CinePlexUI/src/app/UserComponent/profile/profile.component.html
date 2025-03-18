@@ -1,0 +1,64 @@
+<app-user-navbar></app-user-navbar>
+
+<div class="container-fluid d-flex align-items-center justify-content-center" *ngIf="flag==0">
+    <div class="card d-flex align-items-center justify-content-center" style="width: 50%;">
+        <div class="card-body" style="width: 80%;">
+            <h5 class="card-title text-center p-2" style="background-color: blueviolet;">User Details</h5>
+                <div class="field">
+                    <label class="label">User Name</label>
+                    <span class="value">{{user.userName}}</span>
+                </div>
+                <div class="field">
+                    <label class="label">User Type</label>
+                    <span class="value">{{user.userType}}</span>
+                </div>
+                <div class="field">
+                    <label class="label">Name</label>
+                    <span class="value">{{user.name}}</span>
+                </div>
+                <div class="field">
+                    <label class="label">Email</label>
+                    <span class="value">{{user.email}}</span>
+                </div>
+                <br>
+                <div>
+                    <button class="btn btn-primary" (click)="OnModify()" style="float: right;">Modify</button>
+                    
+                </div>            
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="container-fluid d-flex align-items-center justify-content-center" *ngIf="flag==1">
+    <div class="card d-flex align-items-center justify-content-center" style="width: 50%;">
+        <div class="card-body" style="width: 80%;">
+            <h5 class="card-title text-center p-2" style="background-color: blueviolet;">User Details</h5>
+            <form [formGroup]="userForm">
+                <div class="field">
+                    <label class="label">User Name</label>
+                    <input class="form-control" formControlName="userName" type="text">
+                </div>
+                <div class="field">
+                    <label class="label">User Type</label>
+                    <span class="value">{{user.userType}}</span>
+                </div>
+                <div class="field">
+                    <label class="label">Name</label>
+                    <input class="form-control" formControlName="name" type="text">
+                </div>
+                <div class="field">
+                    <label class="label">Email</label>
+                    <input class="form-control" formControlName="email" type="text">
+                </div>
+                <br>
+                <div>
+                    <button class="btn btn-primary" (click)="OnUpdate()" style="float: right;">Update</button>
+                    <button class="btn btn-secondary" (click)="OnCancel()">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

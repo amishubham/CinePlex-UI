@@ -1,0 +1,26 @@
+<app-user-navbar></app-user-navbar>
+
+<br>
+
+<div>
+    <div class="movie-grid">
+        <div class="movie-card" *ngFor="let item of showsList">
+            <img class="movie-image" [src]="'assets/'+item.movieName+'.jpg'" alt="image.jpg" (error)="setDefault($event)">
+            <div>
+                <b>{{item.movieName}}</b>
+                <br>
+                <span>Theatre Name: &nbsp;</span> <span>{{item.theatreName}}</span>
+                <br>
+                <span>Price: &nbsp;</span> <span>{{item.price}}</span>
+                <span>&nbsp; &nbsp;</span>
+                <span>Tickets Remaining: &nbsp;</span> <span>{{item.ticketsAvailable}}</span>
+                <br>
+                <span>Date: &nbsp;</span> <span>{{item.showTiming | date: 'yyyy-MM-dd'}}</span>
+                <span>&nbsp; &nbsp;</span>
+                <span>Time: &nbsp;</span> <span>{{item.showTiming| date: 'HH:mm:ss'}} </span>
+                <span><button (click)="OnBook(item.id)" class="btn btn-primary">Book</button></span>
+            </div>
+        </div>
+    </div>
+</div>
+

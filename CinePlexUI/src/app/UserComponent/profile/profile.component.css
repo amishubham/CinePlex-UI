@@ -1,0 +1,26 @@
+.field{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.value{
+    flex-basis: 70%;
+    border: 1px solid;
+    border-radius: 4px;
+    padding:  5px 10px;
+}
+
+.label{
+    flex-basis: 30%;
+}
+
+.form-control{
+    flex-basis: 70%;
+    border: 1px solid;
+    border-radius: 4px;
+    padding:  5px 10px;
+}
+
+

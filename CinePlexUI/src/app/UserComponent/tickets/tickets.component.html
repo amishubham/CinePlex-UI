@@ -1,0 +1,36 @@
+<app-user-navbar></app-user-navbar>
+
+<div class="empty-view d-flex align-items-center justify-content-center" *ngIf="isEmpty==true">
+    <br>
+    <br>
+    <b>*You do not have any current booking</b>
+</div>
+
+<div class="content-view" *ngIf="isEmpty==false">
+    <table class="table table-striped border-primary p2">
+        <thead class="thead-light">
+            <th>Id</th>
+            <th>Movie Name</th>
+            <th>Theatre Name</th>
+            <th>Seat Number</th>
+            <th>Show Id</th>
+            <th>No Of Tickets </th>
+            <th>Show Date</th>
+            <th>Show Time</th>
+            <th>Action</th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of ticketsList">
+                <th>{{item.id}}</th>
+                <th>{{item.movieName}}</th>
+                <th>{{item.theatreName}}</th>
+                <th>{{item.seatNos}}</th>
+                <th>{{item.showId}}</th>
+                <th>{{item.noOfTickets}}</th>
+                <th>{{item.showTiming | date: 'yyyy-MM-dd'}}</th>
+                <th>{{item.showTiming| date: 'HH:mm:ss'}} </th>
+                <td><button class="btn btn-danger" (click)="OnDelete(item.id)">Delete</button></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

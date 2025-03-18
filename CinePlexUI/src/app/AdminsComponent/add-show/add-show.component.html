@@ -1,0 +1,51 @@
+<div class="container-fluid d-flex align-items-center justify-content-center">
+    <div class="card d-flex align-items-center justify-content-center" style="width: 50%;">
+        <div class="card-body" style="width: 80%;">
+            <h5 class="card-title text-center p-2" style="background-color: blueviolet;">Add Show</h5>
+            <form [formGroup]="showForm">
+                <div class="field">
+                    <label class="label">Movie Id</label>
+                    <input class="form-control" formControlName="movieId" type="number" (input)="onMovieIdChange()">
+                </div>
+                <div class="field">
+                    <label class="label">Movie Name</label>
+                    <input class="form-control" [value]="movieName" type="text" readonly>
+                </div>
+                <div class="field">
+                    <label class="label">Theatre Id</label>
+                    <div class="d-flex">
+                    <input class="form-control" formControlName="theatreId" type="number">
+                    <button (click)="searchTheatre()">Search</button>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Theatre Name</label>
+                    <input class="form-control" [value]="theatreName" type="text" readonly>
+                    
+                </div>
+                <div class="field">
+                    <label class="label">Price</label>
+                    <input class="form-control" formControlName="price" type="number">
+                </div>
+                <div class="field">
+                    <label class="label">Tickets Remaining</label>
+                    <input class="form-control" [value]="ticketsRemaining" type="number">
+                </div>
+                <div class="field">
+                    <label class="label">Show Date</label>
+                    <input class="form-control"  type="date" #dateInput>
+                </div>
+                <div class="field">
+                    <label class="label">Show Time</label>
+                    <input class="form-control"  type="time" #timeInput>
+                </div>
+                
+                <br>
+                <div>
+                    <button class="btn btn-primary" (click)="OnAdd(dateInput.value, timeInput.value)" style="float: right;">Add</button>
+                    <button class="btn btn-secondary" (click)="OnCancel()">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+<div class="container-fluid d-flex align-items-center justify-content-center vh-100">
+    
+    <div class="left d-flex align-items-center justify-content-center" style="width: 60%;">
+        <div class="image-container">
+            <img src="assets/theater.jpg" class="img-fluid">
+        </div>
+    </div>
+        
+    
+    <div class="card d-flex align-items-center justify-content-center" style="width: 40%;">
+        <div class="card-body" style="width: 80%;">
+            <br>
+            <h5 class="card-title text-center p-2" style="background-color: blueviolet;">Login</h5>
+            <form [formGroup]="loginForm">
+                <br>
+                <div class="field">
+                    <label class="label">User Name</label>
+                    <input class="form-control" formControlName="userName" type="text">
+                    <div *ngIf="loginForm.get('userName')?.invalid && loginForm.get('userName')?.touched" class="text-danger">
+                        *UserName is required
+                    </div>
+                </div>
+                <br>
+                <div class="field">
+                    <label class="label">Password</label>
+                    <input class="form-control" formControlName="password" type="password">
+                    <div *ngIf="loginForm.get('password')?.invalid && loginForm.get('password')?.touched" class="text-danger">
+                        *Password is required
+                    </div>
+                </div>
+                <br>
+                <div class="field">
+                    <label class="label">User Type</label>
+                    <select class="form-select" formControlName="userType" type="text">
+                        <option>User</option>
+                        <option>Admin</option>
+                        </select>
+                        <div *ngIf="loginForm.get('userType')?.invalid && loginForm.get('userType')?.touched" class="text-danger">
+                            *UserType is required
+                        </div>
+                </div>
+                <br>
+                <div>
+                    <button class="btn btn-primary" (click)="OnLogin()" [disabled]="loginForm.invalid" style="float: right;">Login</button>                    
+                </div>
+            </form>
+            <br>
+            <span>Don't have an account? </span>
+            <button class="btn btn-primary" (click)="OnSignup()">Signup</button>
+        </div>
+    </div>
+
+</div>

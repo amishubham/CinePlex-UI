@@ -1,0 +1,22 @@
+<div class="container-fluid d-flex align-items-center justify-content-center">
+    <div class="card d-flex align-items-center justify-content-center" style="width: 50%;">
+        <div class="card-body" style="width: 80%;">
+            <h5 class="card-title text-center p-2" style="background-color: blueviolet;">Add Movie</h5>
+            <form [formGroup]="movieForm">
+                <div class="field">
+                    <label class="label">Name</label>
+                    <input class="form-control" formControlName="name" type="text">
+                </div>
+                <div class="field">
+                    <label class="label">Release Date</label>
+                    <input class="form-control" formControlName="releaseDate" type="date">
+                </div>
+                <br>
+                <div>
+                    <button class="btn btn-primary" (click)="OnAdd()" style="float: right;">Add</button>
+                    <button class="btn btn-secondary" (click)="OnCancel()">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

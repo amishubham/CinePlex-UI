@@ -1,0 +1,29 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+        <span class="navbar-brand"><b>CinePlex</b></span>
+        <div class="collapse navbar-collapse" >
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/movies">Movies</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/theatres">Theatres</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/shows">Shows</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Add
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <li><a class="dropdown-item" routerLink="/addmovie">Movie</a></li>
+                      <li><a class="dropdown-item" routerLink="/addtheatre">Theatre</a></li>
+                      <li><a class="dropdown-item" routerLink="/addshow">Show</a></li>
+                    </ul>
+                  </li>
+            </ul>
+        </div>
+        <button (click)="OnLogout()" class="btn btn-danger">LogOut</button>
+    </div>
+</nav>

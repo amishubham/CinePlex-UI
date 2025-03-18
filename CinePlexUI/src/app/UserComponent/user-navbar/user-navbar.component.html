@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+        <span class="navbar-brand"><b>CinePlex</b></span>
+        <div class="collapse navbar-collapse" >
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/home/{{id}}">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/tickets/{{id}}">Tickets</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/profile/{{id}}">Profile</a>
+                </li>                
+            </ul>
+        </div>
+        <button (click)="OnLogout()" class="btn btn-danger">LogOut</button>
+    </div>
+</nav>

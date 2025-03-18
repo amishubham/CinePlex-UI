@@ -1,0 +1,55 @@
+<div class="container-fluid d-flex align-items-center justify-content-center vh-100">
+    
+    <div class="left d-flex align-items-center justify-content-center" style="width: 60%;">
+        <div class="image-container">
+            <img src="assets/theater.jpg" class="img-fluid">
+        </div>
+    </div>
+    
+    
+    <div class="card d-flex align-items-center justify-content-center" style="width: 40%;">
+        <div class="card-body" style="width: 80%;">
+            <h5 class="card-title text-center p-2" style="background-color: blueviolet;">SignUp</h5>
+            <form [formGroup]="signupForm">
+                <div class="field">
+                    <label class="label">User Name</label>
+                    <input class="form-control" formControlName="userName" type="text">
+                    <div *ngIf="signupForm.get('userName')?.invalid && signupForm.get('userName')?.touched" class="text-danger">
+                        *UserName is required
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Password</label>
+                    <input class="form-control" formControlName="password" type="password">
+                    <div *ngIf="signupForm.get('password')?.invalid && signupForm.get('password')?.touched" class="text-danger">
+                        *Password is required
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">User Type</label>
+                    <select class="form-select" formControlName="userType" type="text">
+                        <option>User</option>
+                        <option>Admin</option>
+                        </select>
+                        <div *ngIf="signupForm.get('userType')?.invalid && signupForm.get('userType')?.touched" class="text-danger">
+                            *UserType is required
+                        </div>
+                </div>
+                <div class="field">
+                    <label class="label">Name</label>
+                    <input class="form-control" formControlName="name" type="text">
+                </div>
+                <div class="field">
+                    <label class="label">Email</label>
+                    <input class="form-control" formControlName="email" type="text">
+                </div>
+                <br>
+                <div>
+                    <button class="btn btn-primary" (click)="OnSignup()"  [disabled]="signupForm.invalid" style="float: right;">Signup</button>
+                    <button class="btn btn-secondary" (click)="OnCancel()">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+</div>

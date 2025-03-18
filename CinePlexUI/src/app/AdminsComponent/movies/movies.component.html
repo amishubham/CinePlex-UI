@@ -1,0 +1,21 @@
+<app-admin-navbar></app-admin-navbar>
+
+<div class="content-view">
+    <table class="table table-striped border-primary p2">
+        <thead class="thead-light">
+            <th>Id</th>
+            <th>Name</th>
+            <th>Release Date</th>
+            <th>Action</th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of moviesList">
+                <th>{{item.id}}</th>
+                <th>{{item.name}}</th>
+                <th>{{item.releaseDate}}</th>
+                <td><button class="btn btn-danger" (click)="OnDelete(item.id)">Delete</button></td>
+            </tr>
+        </tbody>
+    </table>
+    <button class="btn btn-primary" routerLink="/addmovie">+Add</button>
+</div>
